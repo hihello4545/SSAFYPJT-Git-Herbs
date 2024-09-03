@@ -317,7 +317,7 @@ SSAFY 10기 2학기 특화 프로젝트 - 행복만땅 (팀 A205)
         <a href="https://github.com/JongJae2">
             <img src="https://avatars.githubusercontent.com/u/149658209?v=4" width="100px;" alt="팀원 이종재"/>
             <br />
-            <sub><b>팀원 이종재</b></sub>
+            <sub><b>팀원 </b></sub>
         </a>
         <br />
         <div>BE, FE</div>
